@@ -1,0 +1,59 @@
+a {
+	color : #FFFF00;
+	text-decoration : none;
+}
+
+
+a:hover {
+	text-decoration : underline;
+}
+
+
+h1, h2{
+	font-weight : normal;
+	font-family : "Arial";
+	margin : 3px;
+	padding : 0;
+
+}
+
+body{
+background-image: url('http://codd.cs.gsu.edu/~ppyun2/background.jpg');
+	background-size: cover;
+font-family : "Arial";
+}
+
+table, tr,td, th{
+
+	text-align: center;
+	width: 80%;
+	border: 0;
+}
+
+.img{
+	border-style : none;
+	padding : 5px;
+	vertical-align:middle;
+}
+
+
+#row1{
+	background-color: red;
+}
+
+#row2{
+	background-color: blue;
+}
+div{
+	font-family: "Georgia";
+}
+
+#back{
+	background-image: url('http://codd.cs.gsu.edu/~ppyun2/background.jpg');
+	background-size: cover;
+}
+
+span{
+	color: red;
+	font-weight: bold;
+}
